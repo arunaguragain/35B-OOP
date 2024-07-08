@@ -193,9 +193,6 @@ public class Task5 {
         System.out.println("\nTotal prime numbers less than " + num1 + ": " + count);
     }
    
-
-
-
 }
     
 
